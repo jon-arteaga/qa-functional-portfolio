@@ -42,9 +42,9 @@
 | Tipo                    | Descripción                                                          | Herramienta             |
 | ----------------------- | -------------------------------------------------------------------- | ----------------------- |
 | **Funcional**           | Validación de flujos y reglas de negocio                             | Manual                  |
-| **Regresión**           | Re-ejecución de casos críticos ante cambios                          | Manual / TestRail       |
+| **Regresión**           | Re-ejecución de casos críticos ante cambios                          | Manual / XRay           |
 | **Smoke**               | Verificación rápida de funcionalidades base post-deploy              | Manual                  |
-| **API Testing**         | Validación de endpoints REST: contratos, status codes, errores       | Postman / Bruno         |
+| **API Testing**         | Validación de endpoints REST: contratos, status codes, errores       | Postman                 |
 | **Exploratorio**        | Sesiones libres para detectar comportamientos inesperados            | Manual                  |
 | **Validación de Datos** | Verificación de integridad y consistencia en DB                      | SQL / DBeaver           |
 | **UAT**                 | Validación del flujo completo desde la perspectiva del usuario final | Manual                  |
@@ -143,7 +143,7 @@ Las áreas se priorizan según su impacto en el negocio, la experiencia del usua
 | Riesgo                                    | Probabilidad | Impacto | Mitigación                                                             |
 | ----------------------------------------- | ------------ | ------- | ---------------------------------------------------------------------- |
 | Ambiente de staging/QA inestable          | Media        | Alto    | Coordinar con el equipo de infra un chequeo previo al ciclo de pruebas |
-| Cambios de último momento en el scope     | Alta         | Medio   | Re-priorizar casos críticos y documentar el delta                      |
+| Cambios de último momento en el scope     | Alta         | Medio   | Re-priorizar casos críticos y documentar cambios de alcance            |
 | Datos de prueba insuficientes o corruptos | Baja         | Alto    | Mantener scripts SQL de seed data actualizados                         |
 | Recursos QA limitados (1 analista)        | Media        | Medio   | Priorizar flujos críticos y usar checklists para cobertura rápida      |
 | Dependencias de terceros (APIs externas)  | Baja         | Alto    | Usar mocks en staging para aislar el comportamiento                    |
