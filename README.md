@@ -1,121 +1,83 @@
-# Portafolio - QA Funcional
+# 🧪 Jonathan Arteaga – QA Analyst Portfolio
 
-Portafolio de QA Funcional enfocado en testing manual, testing exploratorio, testing de APIs, reporte de bugs y validación UI/UX.
+Hola! 👋 Soy **Jonathan Arteaga**, QA Analyst con más de **3 años de experiencia** asegurando la calidad funcional y técnica de aplicaciones web y APIs en entornos ágiles (Agile/Scrum).
 
----
+Me especializo en pruebas manuales, validación de APIs REST con Postman y Bruno, y verificación de integridad de datos con SQL. Mi formación técnica en Informática me permite entender a fondo la lógica de los sistemas y colaborar de manera efectiva con los equipos de desarrollo.
 
-## Sobre mí
+Actualmente finalizando mi carrera como **Técnico Superior en Informática en el IUTIRLA** (etapa de tesis).
 
-Analista QA con experiencia en validación de aplicaciones web y móviles mediante testing funcional, exploratorio, regresiones y APIs.
-
-Enfocado en comprender flujos de negocio, identificar edge cases, analizar incidencias mediante logs y validaciones en base de datos, y generar documentación clara para mejorar la calidad del software y la colaboración entre equipos.
+🔒 _Todo el contenido de este portfolio es generalizado para respetar la confidencialidad de los clientes (NDAs)._
 
 ---
 
-## Áreas de Experiencia QA
+## 👤 Sobre Mí
 
-### Testing Funcional
+💼 **QA Analyst** — Pruebas Manuales · API Testing · SQL · Agile/Scrum  
+📍 Buenos Aires, Argentina (Remoto)  
+🌐 **Idiomas:** Español (nativo), Inglés (lectura tecnica)
 
-- Validación end-to-end de flujos de negocio
-- Pruebas de aceptación de usuario (UAT)
-- Validación de formularios y campos de entrada
-- Verificación de manejo de errores
-- Análisis de edge cases
-- Ejecución de pruebas de regresión
-- Testing de compatibilidad entre navegadores
-- Testing de aplicaciones móviles
-- Validación de flujos de compra y pagos
+🧠 Fortalezas clave:
 
-### Testing Exploratorio
+- Diseño y ejecución de casos de prueba manuales (funcionales, regresión y smoke)
+- Validación de APIs REST: códigos HTTP, estructura JSON, contratos y manejo de errores
+- Consultas SQL para validar integridad y consistencia de datos
+- Reporte y gestión de defectos con trazabilidad completa en Jira y Xray
+- Trabajo en entornos Scrum con sprints de 2 semanas, desde definición hasta producción
+- Colaboración activa con equipos de desarrollo y Product Owners en la definición de criterios de aceptación
 
-- Análisis de flujos sin casos de prueba predefinidos
-- Detección de comportamientos inesperados
-- Validación enfocada en experiencia de usuario
-- Identificación de ambigüedades antes del desarrollo
-- Análisis de navegación y usabilidad
-
-### Testing de APIs
-
-- Validación de APIs REST utilizando Postman
-- Verificación de requests y responses
-- Validación de códigos de estado HTTP
-- Validación de estructuras JSON
-- Testing de autenticación y tokens
-- Verificación de manejo de errores en APIs
-
-### Validación de Base de Datos
-
-- Consultas SQL para verificación de datos
-- Validación de consistencia entre frontend y backend
-- Verificación de información almacenada
-- Validación de integridad de datos
-
-### Reporte de Bugs y Debugging
-
-- Documentación detallada de bugs
-- Pasos claros de reproducción
-- Análisis de resultados esperados vs actuales
-- Análisis de logs para investigación de incidencias
-- Soporte para análisis de causa raíz
-- Clasificación de severidad y prioridad
-
-### Validación UI/UX
-
-- Verificación de consistencia visual
-- Testing de comportamiento responsive
-- Revisión de layouts, espaciados y alineación
-- Validación contra especificaciones de diseño
-- Análisis de experiencia de usuario
-
-### Gestión de Flujos de Trabajo en Jira
-
-- Creación y seguimiento de tickets, tareas e incidencias
-- Actualización y gestión de estados dentro del workflow
-- Creación de tickets para visualización y seguimiento del trabajo QA
-- Documentación de evidencias y resultados de testing
-- Validación de incidencias corregidas antes de su cierre
+📧 **Email:** 7arteagajonathan@gmail.com  
+🔗 **LinkedIn:** [jonathan arteaga](https://linkedin.com/in/jonathan-arteag)
 
 ---
 
-## Estructura del Repositorio
+## 🎓 Educación & Certificaciones
 
-### test-cases/
-
-Casos de prueba manuales para aplicaciones web y móviles
-
-### bug-reports/
-
-Ejemplos de reportes de bugs con pasos de reproducción y comparación entre resultados esperados y actuales
-
-### exploratory-testing/
-
-Notas de testing exploratorio y checklists de QA
-
-### api-testing/
-
-Colecciones y ejemplos de pruebas de APIs utilizando Postman
-
-### ui-ux-review/
-
-Revisiones de validación UI/UX enfocadas en usabilidad y consistencia visual
+🎓 **Técnico Superior en Informática** — IUTIRLA _(Sep 2024 – Actualidad, etapa de tesis)_  
+Programación, bases de datos, arquitectura de sistemas y análisis de requerimientos.
 
 ---
 
-## Herramientas y Tecnologías
+## 📁 Explorar Portfolio QA
 
-- Postman
-- Jira
-- SQL
-- Git & GitHub
-- Chrome DevTools
-- APIs REST
-- VS Code
+| Sección        | Enlace                        | Descripción                                                      |
+| -------------- | ----------------------------- | ---------------------------------------------------------------- |
+| 🗂️ Test Plans  | [Test_Plans/](./Test_Plans)   | Documentos de estrategia QA con alcance, enfoque y riesgos       |
+| ✅ Checklists  | [Checklists/](./Checklists)   | Guías de validación de regresión y release readiness             |
+| 🧪 Test Cases  | [Test_Cases/](./Test_Cases)   | Casos de prueba funcionales con pasos y resultados esperados     |
+| 🔌 API Testing | [API_Testing/](./API_Testing) | Documentación de pruebas REST — GET, POST, PUT, DELETE           |
+| 📋 Bug Reports | [Bug_Reports/](./Bug_Reports) | Reportes de defectos con evidencia y análisis de causa raíz      |
+| 💾 SQL Queries | [SQL_Queries/](./SQL_Queries) | Consultas para validación de datos e integridad en base de datos |
 
 ---
 
-## Objetivos Actuales
+## 📁 Estructura del Repositorio
 
-- Expandir conocimientos en automatización de pruebas con Playwright + Typescript
-- Mejorar flujos de testing de APIs
-- Construir documentación QA basada en casos reales
-- Fortalecer procesos y estrategias de testing
+```
+📂 QA-Portfolio/
+│
+├── 🗂️ Test_Plans/        # Documentos de estrategia QA para ciclos completos
+├── ✅ Checklists/        # Checklists de regresión y release readiness
+├── 🧪 Test_Cases/        # Casos de prueba funcionales con pasos y resultados
+├── 🔌 API_Testing/       # Documentación de requests y validaciones REST
+├── 📋 Bug_Reports/       # Reportes de bugs con logs y análisis de causa raíz
+└── 💾 SQL_Queries/       # Consultas SQL para validación de datos e integridad
+```
+
+---
+
+## 🧰 Skills & Herramientas
+
+| Categoría              | Herramientas y Tecnologías                             |
+| ---------------------- | ------------------------------------------------------ |
+| **API Testing**        | Postman (colecciones, environments, assertions), Bruno |
+| **Gestión de Pruebas** | Jira, XRay, TestRail, Trello                           |
+| **Bases de Datos**     | SQL, PostgreSQL, DBeaver, TablePlus                    |
+| **Cross-Browser**      | BrowserStack, DevTools                                 |
+| **Metodologías**       | Agile, Scrum, Kanban                                   |
+| **Tipos de Prueba**    | Funcional, Regresión, Smoke, Exploratoria, API, UAT    |
+| **Automatización**     | Playwright + TypeScript _(en formación)_               |
+| **Otros**              | Git, Slack, JavaScript (básico/intermedio)             |
+
+---
+
+_¡Gracias por visitar mi portfolio! Si tenés preguntas o querés conectar, no dudes en escribirme por [LinkedIn](https://linkedin.com/in/jonathan-arteag)._ 🚀
