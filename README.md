@@ -37,31 +37,31 @@ Programación, bases de datos, arquitectura de sistemas y análisis de requerimi
 
 ---
 
-## 📁 Explorar Portfolio QA
-
-| Sección        | Enlace                        | Descripción                                                      |
-| -------------- | ----------------------------- | ---------------------------------------------------------------- |
-| 🗂️ Test Plans  | [Test_Plans/](./Test_Plans)   | Documentos de estrategia QA con alcance, enfoque y riesgos       |
-| ✅ Checklists  | [Checklists/](./Checklists)   | Guías de validación de regresión y release readiness             |
-| 🧪 Test Cases  | [Test_Cases/](./Test_Cases)   | Casos de prueba funcionales con pasos y resultados esperados     |
-| 🔌 API Testing | [API_Testing/](./API_Testing) | Documentación de pruebas REST — GET, POST, PUT, DELETE           |
-| 📋 Bug Reports | [Bug_Reports/](./Bug_Reports) | Reportes de defectos con evidencia y análisis de causa raíz      |
-| 💾 SQL Queries | [SQL_Queries/](./SQL_Queries) | Consultas para validación de datos e integridad en base de datos |
-
----
-
 ## 📁 Estructura del Repositorio
 
 ```
 📂 QA-Portfolio/
 │
-├── 🗂️ Test_Plans/        # Documentos de estrategia QA para ciclos completos
-├── ✅ Checklists/        # Checklists de regresión y release readiness
-├── 🧪 Test_Cases/        # Casos de prueba funcionales con pasos y resultados
-├── 🔌 API_Testing/       # Documentación de requests y validaciones REST
-├── 📋 Bug_Reports/       # Reportes de bugs con logs y análisis de causa raíz
-└── 💾 SQL_Queries/       # Consultas SQL para validación de datos e integridad
+├── 🗂️ test-plans/
+├── ✅ checklists/
+├── 🧪 test-cases/
+├── 🔌 api-testing/
+├── 📋 bug-reports/
+└── 💾 sql-queries/
 ```
+
+---
+
+## 📁 Explorar Portfolio QA
+
+| Sección        | Enlace                       | Descripción                                               |
+| -------------- | ---------------------------- | --------------------------------------------------------- |
+| 🗂️ Test Plans  | [test-plans](./test-plans)   | Estrategias QA con alcance, enfoque y análisis de riesgos |
+| ✅ Checklists  | [checklists](./checklists)   | Validaciones de regresión y preparación para releases     |
+| 🧪 Test Cases  | [test-cases](./test-cases)   | Casos de prueba funcionales con resultados esperados      |
+| 🔌 API Testing | [api-testing](./api-testing) | Pruebas REST: GET, POST, PUT y DELETE                     |
+| 📋 Bug Reports | [bug-reports](./bug-reports) | Reportes de bugs con evidencia y análisis de causa raíz   |
+| 💾 SQL Queries | [sql-queries](./sql-queries) | Queries SQL para validación e integridad de datos         |
 
 ---
 
