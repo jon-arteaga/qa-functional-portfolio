@@ -1,6 +1,6 @@
 # 🗂️ Test Plans
 
-Documentos de estrategia y planificación de QA para una plataforma de e-commerce. Estos artefactos reflejan prácticas reales de planificación utilizadas en entornos Agile/Scrum.
+Documentos de estrategia y planificación de QA para una plataforma de e-commerce, basados en prácticas reales de planificación utilizadas en entornos Agile/Scrum.
 
 ---
 
@@ -27,20 +27,20 @@ Un Test Plan bien definido responde a estas preguntas clave:
 ## 📁 Estructura
 
 ```
-Test_Plans/
-├── Test_Strategy.md          # Estrategia QA general: alcance, tipos de prueba, ambientes y entregables
-└── Regression_Test_Plan.md   # Plan de regresión: flujos críticos, criterios de entrada/salida y suite de pruebas
+test-plans/
+├── test-strategy.md
+└── regression-test-plan.md
 ```
 
 ---
 
 ## 📂 Explorar
 
-| Archivo                   | Descripción                                                                              |
-| ------------------------- | ---------------------------------------------------------------------------------------- |
-| `Test_Strategy.md`        | Estrategia QA completa: alcance, tipos de testing, ambientes, herramientas y entregables |
-| `Regression_Test_Plan.md` | Plan de regresión con flujos críticos, criterios de entrada/salida y suite de pruebas    |
+| Archivo                                         | Descripción                                                                              |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [test-strategy](./test-strategy.md)             | Estrategia QA completa: alcance, tipos de testing, ambientes, herramientas y entregables |
+| [regression-test-plan](./regression-test-plan.md) | Plan de regresión con flujos críticos, criterios de entrada/salida y suite de pruebas    |
 
 ---
 
-🔒 _Todo el contenido es generalizado y fue creado con fines de portfolio. Cualquier similitud con productos o empresas reales es coincidencia. Los nombres de clientes y proyectos fueron omitidos para respetar la confidencialidad._
+🔒 _Todo el contenido es simulado y fue creado con fines de práctica y portfolio._
