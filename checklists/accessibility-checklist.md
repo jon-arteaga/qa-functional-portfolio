@@ -1,6 +1,6 @@
-# ♿ Accessibility Checklist — WCAG 2.1 AA
+# ♿ Checklist de Accesibilidad — WCAG 2.1 AA
 
-Checklist de validación de accesibilidad basada en los criterios de WCAG 2.1 nivel AA. Orientada a verificar que la aplicación sea usable para personas con distintas capacidades. 
+Checklist de validación de accesibilidad basada en los criterios de WCAG 2.1 nivel AA. Orientada a verificar que la aplicación sea usable para personas con distintas capacidades.
 
 > 💡 Esta checklist es una guía de revisión manual básica. Para auditorías completas se recomienda complementar con herramientas como Axe, Lighthouse o NVDA
 
