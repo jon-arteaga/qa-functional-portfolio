@@ -133,7 +133,7 @@ Las áreas se priorizan según su impacto en el negocio, la experiencia del usua
 
 - 100% de casos de smoke ejecutados y aprobados
 - 0 bugs críticos o bloqueantes abiertos
-- Regresión ejecutada con ≥ 85% de pass rate
+- Regresión ejecutada con ≥ 90% de pass rate
 - Evidencia de pruebas documentada en TestRail
 
 ---
